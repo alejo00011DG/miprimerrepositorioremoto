@@ -1,0 +1,9 @@
+img{
+   margin: 0px 565px 0px 470px;
+}
+
+.image-slider{
+display: flex;
+max-width: 99%;
+max-height: 99%;
+}
